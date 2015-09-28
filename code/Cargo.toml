@@ -1,0 +1,9 @@
+[package]
+name = "carboxyl-demo"
+version = "0.1.0"
+authors = ["Eduard Bopp <eduard.bopp@aepsil0n.de>"]
+
+[dependencies]
+carboxyl = "0.1.2"
+carboxyl_time = "0.0.2"
+time = "0.1.32"
